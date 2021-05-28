@@ -1,7 +1,9 @@
 # MultiGym Management System
-Link the requred bootstrap file
 
-https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+### Learn 
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [BootStrap](https://getbootstrap.com/)
+- [PHP](https://www.w3schools.com/php/DEFAULT.asp)
 
-https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
-
+### Screenshot
